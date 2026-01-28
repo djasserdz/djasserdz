@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Golang, System Design, AI & Machine Learning**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 📫 How to reach me: **djaserzouaoui@gmail.com**
-- [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1arHblYh04JYoUyNPdTzXqmY8TUHwaZg_/view?usp=sharing)
+- [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1qLvGXWijvBhZIxyjqmsmaHJGXAHEqNV0/view?usp=sharing)
 
 
 ---
