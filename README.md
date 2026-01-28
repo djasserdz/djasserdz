@@ -41,7 +41,7 @@
 
 ### About Me
 
-I'm a 19-year-old freelancer based in Algeria specializing in **Fullstack Web Development**, **UI/UX Design**, and **AI/ML Projects**. I love building clean, scalable solutions and learning cutting-edge technologies.
+I am a Computer Science engineering student at the University of 8 Mai 1945 Guelma, specializing in backend development and Passionate about **AI** , learning and building practical, clean and scalable solutions, I enjoy collaborating on projects and continuously developing my skills to create efficient and impactful results.
 
 ---
 
