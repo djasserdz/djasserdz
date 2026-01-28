@@ -13,14 +13,14 @@ Currently exploring **Golang, system design, AI, and machine learning**. I build
 - 🌱 I’m currently learning: **Golang, AI/ML, System Design, Microservices**  
 - 👯 I’m looking to collaborate on: **Open source & backend projects**  
 - 💬 Ask me about: **Backend systems, Databases, System design, APIs**  
-- 📫 How to reach me: **djaser.zouaoui@gmail.com**  
+- 📫 How to reach me: **djaserzouaoui@gmail.com**  
 
 ---
 
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://github.com/djasserdz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="djasserdz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sidali-djeghbal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/djasser-zouaoui-288011361/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sidali.djeghbal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/djeghbal.sidali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
