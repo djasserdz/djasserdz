@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sidali (djasserdz)
+# Hi 👋, I'm Zouaoui Djasser (djasserdz)
 
 ### Backend Developer | System Designer | AI Enthusiast
 
