@@ -25,7 +25,7 @@
 ### Languages & Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,vue,react,go,python,docker,git,postgres,mysql,fastapi,linux,redis,nginx,tensorflow,scikitlearn,keras,jupyter,sqlite" alt="Languages & Tools" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,vue,react,go,python,docker,git,postgres,mysql,fastapi, docker,linux,redis,nginx,tensorflow,scikitlearn,keras,jupyter,sqlite" alt="Languages & Tools" width="100%"/>
 </p>
 
 ---
